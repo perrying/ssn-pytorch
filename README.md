@@ -22,3 +22,10 @@ python inference --image /path/to/image --weight /path/to/pretrained_weight
 ```
 python train.py --root /path/to/BSDS500
 ```
+
+# Results
+SSN_pix  
+<img src=https://github.com/perrying/ssn-pytorch/blob/master/SSN_pix_result.png>
+
+SSN_deep  
+<img src=https://github.com/perrying/ssn-pytorch/blob/master/SSN_deep_result.png>
