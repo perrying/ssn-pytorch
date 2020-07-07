@@ -6,6 +6,7 @@ original code: https://github.com/NVlabs/ssn_superpixels
 # Requirements
 - PyTorch >= 1.4
 - scikit-image
+- matplotlib
 
 # Usage
 ## inference
